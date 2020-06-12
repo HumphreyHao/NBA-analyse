@@ -70,15 +70,7 @@ homepage.layout = html.Div(
                               children=[
                                   html.Img(id='Homepage2',src='assets/home_p2.png',height='auto',width='40%',
                                            ),
-                                  html.H1(children='Group 2:',style={
-                                      'color':'white'
-                                  }),
-                                  html.H3('Himanshu Gupta'),
-                                  html.H3('Hao zhao'),
-                                  html.H3('Ishan Mehta'),
-                                  html.H3('Sophy Lee'),
-                                  html.H3('Suhrid Subramaniam'),
-                                  html.H3('Yi Yu'),
+                                  html.H3('Hao zhao')
                               ])  # Define the right element
                  ])
     ])
